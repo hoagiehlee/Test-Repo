@@ -1,0 +1,12 @@
+Patient Name,Patient ID #,Date of Admission,Reason for Admission,Current Rx,Previous Visit Reasons
+John Silver,1234,12/13/22,Drug Overdose,"opioids, inhaler",none
+Anna Johnson,1897,12/14/22,Asthma Attack,inhaler,none
+Parker Lee,5748,12/14/22,Knee injury,none,none
+Valerie Jones,2384,12/15/22,Drug Overdose,"inhaler, Zertec",Drug Overdose
+Pete Davidson,8796,12/15/22,Drug Overdose,opioids,Drug Overdose
+Jake Johnson,1456,12/16/22,Gun shot,"opioids, Zertec",none
+Kate Peters,9871,12/20/22,Drug Overdose,Adderall,Drug Overdose
+Hannah Burke,3567,12/20/22,Drug Overdose,none,Drug Overdose
+Patricia Barry,4378,12/23/22,Allergy,"Inhaler, Opioids",Allergy
+Hannah Lee,9125,12/27/22,Panic attack,Zertec,none
+Rob Hoag,2536,1/2/23,Knee injury,Opioids,none
